@@ -1,5 +1,7 @@
-#include "../tests.h"
-#include "helpers.c"
+#include "tests.h"
+#include "ft_bzero/helpers.c"
+
+void	ft_bzero(void *s, size_t n);
 
 void	test_erase_data(void)
 {

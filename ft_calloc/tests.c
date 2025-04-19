@@ -1,4 +1,6 @@
-#include "../tests.h"
+#include "tests.h"
+
+void	*ft_calloc(size_t nmemb, size_t size);
 
 void	test_basic_string(void)
 {

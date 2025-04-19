@@ -1,4 +1,4 @@
-#include "../tests.h"
+#include "tests.h"
 
 int	test_case_erase(char *str, size_t n)
 {

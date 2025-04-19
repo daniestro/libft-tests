@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_calloc.c"
+#include "ft_calloc/tests.c"
 
 int	main(void)
 {

@@ -2,10 +2,10 @@
 # define TESTS_H
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 #include <bsd/string.h>
-#include "../libft/libft.h"
 
 #define	print_test_name(tab) _print_caller(__func__, tab);
 void	_print_caller(const char *caller, int tab);

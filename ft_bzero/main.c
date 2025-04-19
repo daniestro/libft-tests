@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_bzero.c"
+#include "ft_bzero/tests.c"
 
 int	main(void)
 {
