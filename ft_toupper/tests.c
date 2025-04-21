@@ -1,4 +1,6 @@
-#include "../tests.h"
+#include "tests.h"
+
+int	ft_toupper(int c);
 
 int	small_letters(void)
 {
