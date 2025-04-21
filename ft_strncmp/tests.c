@@ -1,5 +1,8 @@
 #include "../tests.h"
 
+
+int	ft_strncmp(const char *s1, const char *s2, size_t n);
+
 void	test_positive(void)
 {
 	printf("|   test_positive:\t");

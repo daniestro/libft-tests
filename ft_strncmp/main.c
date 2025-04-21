@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_strncmp.c"
+#include "ft_strncmp/tests.c"
 
 int	main(void)
 {
