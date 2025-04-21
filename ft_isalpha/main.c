@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_isalpha.c"
+#include "ft_isalpha/tests.c"
 
 int	main(void)
 {

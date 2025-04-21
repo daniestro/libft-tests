@@ -1,3 +1,5 @@
+int	ft_isalpha(int c);
+
 static int	test_case(int c, int res)
 {
 	return (!(ft_isalpha(c) ^ res));
