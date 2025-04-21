@@ -1,4 +1,4 @@
-#include "tests.c"
+#include "ft_memset/tests.c"
 
 int	main(void)
 {
