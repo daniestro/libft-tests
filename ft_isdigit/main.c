@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_isdigit.c"
+#include "ft_isdigit/tests.c"
 
 int	main(void)
 {

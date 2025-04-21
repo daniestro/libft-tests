@@ -1,5 +1,5 @@
-#include "../tests.h"
-#include "helpers.c"
+#include "tests.h"
+#include "ft_isdigit/helpers.c"
 
 void	test_numeric(void)
 {

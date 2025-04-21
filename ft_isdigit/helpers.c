@@ -1,3 +1,5 @@
+int	ft_isdigit(int c);
+
 static int	test_case(int c, int res)
 {
 	return (!(ft_isdigit(c) ^ res));
