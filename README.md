@@ -4,4 +4,4 @@
 # INSTALATION
 - ./install.sh
 
-<im src="https://github.com/user-attachments/assets/925fde80-52ed-4b11-b217-6e3c4f60faaf" alt="Just Makima" style="width: 100%;" />
+<img src="https://github.com/user-attachments/assets/925fde80-52ed-4b11-b217-6e3c4f60faaf" alt="Just Makima" style="width: 100%;" />
