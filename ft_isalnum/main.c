@@ -1,7 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_isalnum.c"
-#include "../../libft/ft_isalpha.c"
-#include "../../libft/ft_isdigit.c"
+#include "ft_isalnum/tests.c"
 
 int	main(void)
 {

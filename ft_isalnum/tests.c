@@ -1,4 +1,4 @@
-#include "../tests.h"
+#include "tests.h"
 #include "helpers.c"
 
 void	test_alphanumeric(void)
