@@ -1,7 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_strdup.c"
-#include "../../libft/ft_strlen.c"
-#include "../../libft/ft_strlcpy.c"
+#include "ft_strdup/tests.c"
 
 int	main(void)
 {

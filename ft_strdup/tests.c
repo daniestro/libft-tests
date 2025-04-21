@@ -1,4 +1,6 @@
-#include "../tests.h"
+#include "tests.h"
+
+char	*ft_strdup(const char *s);
 
 void	test_basic_copy(void)
 {
