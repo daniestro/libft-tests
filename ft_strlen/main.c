@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_strlen.c"
+#include "ft_strlen/tests.c"
 
 int	main(void)
 {

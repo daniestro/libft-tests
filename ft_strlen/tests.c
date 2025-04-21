@@ -1,5 +1,7 @@
 #include "../tests.h"
 
+size_t	ft_strlen(const char *s);
+
 static int	test_case(const char *s, size_t r)
 {
 	return (ft_strlen(s) == r);
