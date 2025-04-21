@@ -4,4 +4,4 @@
 # INSTALATION
 - ./install.sh
 
-![image](https://github.com/user-attachments/assets/6e73e255-30f4-404a-81ce-f96f01a802fa)
+![image](https://github.com/user-attachments/assets/67bf5ab6-02d1-42b3-aa69-ecb08099a421)
