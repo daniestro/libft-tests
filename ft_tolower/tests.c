@@ -1,5 +1,7 @@
 #include "../tests.h"
 
+int	ft_tolower(int c);
+
 int	big_letters(void)
 {
 	char	small;

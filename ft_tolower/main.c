@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_tolower.c"
+#include "ft_tolower/tests.c"
 
 int	main(void)
 {
