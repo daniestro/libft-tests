@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_memchr.c"
+#include "ft_memchr/tests.c"
 
 int	main(void)
 {
