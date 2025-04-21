@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_isprint.c"
+#include "ft_isprint/tests.c"
 
 int	main(void)
 {

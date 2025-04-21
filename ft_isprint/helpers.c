@@ -1,3 +1,5 @@
+int	ft_isprint(int c);
+
 static int	test_case(int c, int res)
 {
 	return (!(ft_isprint(c) ^ res));
