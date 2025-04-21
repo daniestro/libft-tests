@@ -1,4 +1,6 @@
-#include "../tests.h"
+#include "tests.h"
+
+void	*ft_memcpy(void *dest, const void *src, size_t n);
 
 void	test_basic_copy(void)
 {
