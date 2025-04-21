@@ -1,4 +1,6 @@
-#include "../tests.h"
+#include "tests.h"
+
+char	*ft_strchr(const char *s, int c);
 
 void	test_basic_find(void)
 {
