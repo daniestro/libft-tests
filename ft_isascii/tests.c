@@ -1,5 +1,5 @@
-#include "../tests.h"
-#include "helpers.c"
+#include "tests.h"
+#include "ft_isascii/helpers.c"
 
 void	test_ascii(void)
 {

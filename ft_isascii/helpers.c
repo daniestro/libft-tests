@@ -1,3 +1,5 @@
+int	ft_isascii(int c);
+
 static int	test_case(int c, int res)
 {
 	return (!(ft_isascii(c) ^ res));

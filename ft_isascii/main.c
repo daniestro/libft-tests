@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_isascii.c"
+#include "ft_isascii/tests.c"
 
 int	main(void)
 {
