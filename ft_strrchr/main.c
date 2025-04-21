@@ -1,5 +1,4 @@
-#include "tests.c"
-#include "../../libft/ft_strrchr.c"
+#include "ft_strrchr/tests.c"
 
 int	main(void)
 {
