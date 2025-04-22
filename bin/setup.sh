@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/zsh
 echo "alias dkalgano-libft-tests='$HOME/libft-tests/bin/start.sh'" >> ~/.zshrc
 source ~/.zshrc
