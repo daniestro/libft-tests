@@ -2,7 +2,9 @@ int	ft_isdigit(int c);
 
 static int	test_case(int c, int res)
 {
-	return (!(ft_isdigit(c) ^ res));
+	if (res)
+		return (ft_isdigit(c) != 0);
+	return (ft_isdigit(c) == 0);
 }
 
 static int	test_case_between(int start_c, int end_c, int res)

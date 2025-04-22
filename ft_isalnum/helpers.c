@@ -2,7 +2,9 @@ int	ft_isalnum(int c);
 
 static int	test_case(int c, int res)
 {
-	return (!(ft_isalnum(c) ^ res));
+	if (res)
+		return (ft_isalnum(c) != 0);
+	return (ft_isalnum(c) == 0);
 }
 
 static int	test_case_between(int start_c, int end_c, int res)

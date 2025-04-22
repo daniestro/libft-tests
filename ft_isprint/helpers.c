@@ -2,9 +2,10 @@ int	ft_isprint(int c);
 
 static int	test_case(int c, int res)
 {
-	return (!(ft_isprint(c) ^ res));
+	if (res)
+		return (ft_isprint(c) != 0);
+	return (ft_isprint(c) == 0);
 }
-
 static int	test_case_between(int start_c, int end_c, int res)
 {
 	char	c;
